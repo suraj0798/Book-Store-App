@@ -28,12 +28,12 @@ const addBook = async (req, res) => {
 }
 
 
-const updateBook = async (req, res) => {
-    try {
-        const 
-    } catch (error) {
+// const updateBook = async (req, res) => {
+//     try {
+    
+//     } catch (error) {
         
-    }
-}
+//     }
+// }
 
 export {getAllBooks,addBook};
